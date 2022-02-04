@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @djanniss
 - 👀 I’m interested in programming, gaming, and anything tech releated. 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently (re)learning python
 - 💞️ I’m looking to collaborate on anything really! Would love to get more experience
 - 📫 How to reach me: annissdj@gmail.com
 
