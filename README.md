@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, gaming, and anything tech releated. 
 - 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on anything really! Would love to get more experience
-- 📫 How to reach me: dj@anniss.me
+- 📫 How to reach me: 
 
 <!---
 djanniss/djanniss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
